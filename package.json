@@ -4,8 +4,8 @@
   "private": true,
   "homepage": "https://deadhood.github.io/main-demo",
   "dependencies": {
-    "react": "^15.6.2",
-    "react-dom": "^15.6.2"
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   },
   "devDependencies": {
     "gh-pages": "^2.0.1",
