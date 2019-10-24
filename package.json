@@ -5,7 +5,7 @@
   "homepage": "https://deadhood.github.io/main-demo",
   "dependencies": {
     "react": "^16.11.0",
-    "react-dom": "^16.10.2"
+    "react-dom": "^16.11.0"
   },
   "devDependencies": {
     "gh-pages": "^2.1.1",
